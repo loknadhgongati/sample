@@ -1,4 +1,20 @@
-pyton
+AWS (Amazon Web Services)
 
-id
+Section 1: AWS Basics
 
+     Amazon web Service History:
+
+Internally lauched in 2002
+vision setout for AWS publicly with potential for public offerings 2003
+Amazon SQA public launch 2004
+RE-launch with S3, SQS, EC2 2006
+All amazon.com retail sites migrated to AWS 2010
+Sales of $1.57 billion 2015
+Renvenue of $25 billion 2018
+
+Create a billin alaram:
+-->loggin to the console -->billing -->billing preferences
+
+UNder Management & Goverenance we choose cloudwatch ( cloudwatch is perfoemance monitoring source its monitoring your sources using matric.
+Matric is used to send some information to the cloudwatch that tells how much you are using tha why you look the performations of the application and use it to monotor to how much 
+time you working and alarm will trigger.
